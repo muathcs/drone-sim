@@ -1,0 +1,16 @@
+0.5 0.5 North
+841.0 566.0 NorthEast
+359.0 396.0 NorthWestNorth
+868.0 196.0 SouthEast
+199.0 131.0 NorthEastNorth
+1000.0 415.0 NorthEast
+1059.0 580.0 WestNorth
+594.0 115.0 North
+919.0 296.0 SouthEastSouth
+844.0 577.0 SouthWest
+921.0 178.0 SouthEast
+723.0 358.0 WestNorth
+80.0 209.0 SouthEastSouth
+1010.0 202.0 NorthEastNorth
+23.0 434.0 East
+
